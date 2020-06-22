@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator_title">Calculadora</string>
+    <string name="btn_rand">Aleatorio</string>
+    <string name="btn_clear">Borrar</string>
+    <string name="str_error">Error</string>
+    <string name="conversion_title">Conversión</string>
+    <string name="about_title">Acerca de</string>
+    <string name="history_title">Historia</string>
+    <string name="to">A</string>
+    <string name="from">De</string>
+    <string name="centimeters">Centímetros</string>
+    <string name="to_lower">a</string>
+    <string name="inches">Pulgadas</string>
+    <string name="pounds">Libras</string>
+    <string name="kilograms">Kilogramos</string>
+    <string name="grams">Gramos</string>
+    <string name="kilometers">Kilómetros</string>
+    <string name="meters">Metros</string>
+    <string name="us_ton">Tonelada Corta</string>
+    <string name="metric_ton">Tonelada</string>
+    <string name="miles">Millas</string>
+    <string name="yards">Yarda</string>
+    <string name="ounces">Onzas</string>
+    <string name="cups">Tazas</string>
+    <string name="gallons">Galones</string>
+    <string name="liter">Litros</string>
+    <string name="pints">Pintas</string>
+    <string name="quart">Cuartos</string>
+    <string name="fl_ounce">Onzas Fluida</string>
+    <string name="days">Dias</string>
+    <string name="hours">Horas</string>
+    <string name="minutes">Minutos</string>
+    <string name="seconds">Segundos</string>
+    <string name="stone">Stone</string>
+    <string name="feet">Pies</string>
+    <string name="naut_miles">Millas Náuticas</string>
+    <string name="about_text">Esta aplicación fue producida para el programa de Desarrollo de Software en Spokane Community College.</string>
+</resources>

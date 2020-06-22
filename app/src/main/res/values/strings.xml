@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_rand">Random</string>
+    <string name="str_error">Error</string>
+    <string name="conversion_title">Conversion</string>
+    <string name="history_title">History</string>
+    <string name="about_title">About</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="inches">Inches</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="to_lower">to</string>
+    <string name="pounds">Pounds</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="meters">Meters</string>
+    <string name="yards">Yards</string>
+    <string name="miles">Miles</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="ounces">Ounces</string>
+    <string name="grams">Grams</string>
+    <string name="us_ton">Ton (U.S.)</string>
+    <string name="metric_ton">Ton (Metric)</string>
+    <string name="quart">Quarts</string>
+    <string name="liter">Liter</string>
+    <string name="gallons">Gallons</string>
+    <string name="pints">Pints</string>
+    <string name="cups">Cups</string>
+    <string name="fl_ounce">Fluid Ounces</string>
+    <string name="stone">Stone</string>
+    <string name="seconds">Seconds</string>
+    <string name="minutes">Minutes</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="feet">Feet</string>
+    <string name="naut_miles">Nautical Miles</string>
+    <string name="lorem" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="copyright" translatable="false">© 2020 Joel Balmes</string>
+    <string name="about_text">This application was produced for the Software Development program at Spokane Community College.</string>
+
+
+</resources>
